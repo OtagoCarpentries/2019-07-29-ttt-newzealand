@@ -288,10 +288,10 @@ for more information.
 <h2 id="pre_workshop_survey">Surveys</h2>
 
 <p>
-  Before attending the workshop, please fill out <a href="{{ site.instructor_pre_survey }}{{ site.github.project_title }}">our pre-training survey</a>.
+  Before attending the workshop, please fill out <a href="{{ site.instructor_pre_survey }}{{ site.github.project_title }}"> our pre-training survey</a>.
 </p>
 
 
 <p>
-  After the workshop, please fill out <a href="{{ site.instructor_post_survey }}{{ site.github.project_title }} our post-assessment survey</a>.
+  After the workshop, please fill out <a href="{{ site.instructor_post_survey }}{{ site.github.project_title }}"> our post-assessment survey</a>.
 </p>
