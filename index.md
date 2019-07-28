@@ -293,5 +293,5 @@ for more information.
 
 
 <p>
-  After the workshop, please fill out <a href="https://carpentries.github.io/instructor-training/06-feedback/#surveys">our post-assessment survey</a>.
+  After the workshop, please fill out <a href="{{ site.instructor_post_survey }}{{ site.github.project_title }} our post-assessment survey</a>.
 </p>
